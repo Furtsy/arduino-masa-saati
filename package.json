@@ -1,0 +1,24 @@
+{
+  "name": "arduino-masa-saati",
+  "version": "1.0.0",
+  "description": "Arduino masa saati misali",
+  "main": "index.js",
+  "dependencies": {
+    "johnny-five": "^2.1.0",
+    "node-fetch": "^2.6.1",
+    "moment": "^2.29.4",
+    "weather-js": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arduino", "johnny-five", "masa-saat"
+  ],
+  "author": "Furtsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Furtsy/arduino-masa-saati/issues"
+  },
+  "homepage": "https://github.com/Furtsy/arduino-masa-saati#readme"
+}
