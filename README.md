@@ -2,7 +2,7 @@
 Masanızda belli değerleri gösteren bir masa saati
 
 [Discord Sunucusu](https://discord.gg/codare) |
-[Şema](http://johnny-five.io/api/lcd/#component-initialization)  |
+[Şema](https://johnny-five.io/api/lcd/#component-initialization)  |
 [Videolu Gösterim](https://youtu.be/noNXJEm47AI) |
 
 ### İçindekiler
