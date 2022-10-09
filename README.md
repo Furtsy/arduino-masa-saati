@@ -13,6 +13,6 @@ Masanızda belli değerleri gösteren bir masa saati
 - Discord sunucusundaki toplam üye ve aktif üyeyi çekme
 
 ### Kurulum
-Arduino > Dosya > Örnekler > Firmata > StandartFirmataPlus > Yükle
-npm install
-node index.js
+- Arduino > Dosya > Örnekler > Firmata > StandartFirmataPlus > Yükle
+- npm install
+- node index.js
